@@ -1,6 +1,6 @@
 ## Hi 👋, I am Olena!
 
-<img align="right" src="https://github.com/alefirr/alefirr/assets/110906154/5d0df891-545c-4626-969f-99262701d858" width="256" />
+<img align="right" src="./images/avatar.png" width="256" />
 
 I am a full-stack web developer. I love building web applications, exploring new tools, and creating bla bla products.
 
@@ -14,49 +14,49 @@ I am a full-stack web developer. I love building web applications, exploring new
 
 <!--- Frontend -->
 <a href="https://www.typescriptlang.org/" target="_blank">
-  <img alt="TypeScript" height="42px" src="https://github.com/alefirr/alefirr/assets/110906154/67c1145e-458e-4b97-882f-0b276026ea0f">
+  <img alt="TypeScript" height="42px" src="./images/tools/typescript.svg">
 </a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
-  <img alt="JavaScript" height="42px" src="https://github.com/alefirr/alefirr/assets/110906154/88e6cf0e-3077-405f-9e3c-0d37d617b738">
+  <img alt="JavaScript" height="42px" src="./images/tools/javascript.svg">
 </a>
 <a href="https://reactjs.org/" target="_blank">
-  <img alt="React" height="42px" src="https://github.com/alefirr/alefirr/assets/110906154/fc45284f-48ae-4c81-8b46-f96b4992567f">
+  <img alt="React" height="42px" src="./images/tools/react.svg">
 </a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
-  <img alt="HTML" height="42px" src="https://github.com/alefirr/alefirr/assets/110906154/52516ac0-2fbd-4883-9da0-fe3564e9bdad">
+  <img alt="HTML" height="42px" src="./images/tools/html.svg">
 </a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank">
-  <img alt="CSS" height="42px" src="https://github.com/alefirr/alefirr/assets/110906154/124039c6-c948-49d1-aedc-699a906be238">
+  <img alt="CSS" height="42px" src="./images/tools/css.svg">
 </a>
 <a href="https://sass-lang.com/" target="_blank">
-  <img alt="SCSS" height="36px" src="https://github.com/alefirr/alefirr/assets/110906154/40f23109-06ea-4556-8cf5-e392ce367eba">
+  <img alt="SCSS" height="36px" src="./images/tools/scss.svg">
 </a>
 &nbsp;
 <a href="https://jestjs.io/" target="_blank">
-  <img alt="Jest" height="32px" src="https://github.com/alefirr/alefirr/assets/110906154/9a94b81a-3250-45bc-bfb8-4d97ccb5f433">
+  <img alt="Jest" height="32px" src="./images/tools/jest.svg">
 </a>
 &nbsp;
 <a href="https://www.figma.com/" target="_blank">
-  <img alt="Figma" height="38px" src="https://github.com/alefirr/alefirr/assets/110906154/3ad86eb4-4504-4192-9426-dc0e70d25a91">
+  <img alt="Figma" height="38px" src="./images/tools/figma.svg">
 </a><br>
 
 
 <!--- Backend -->
 <a href="https://git-scm.com/" target="_blank">
-  <img alt="Git" height="42px" src="https://github.com/alefirr/alefirr/assets/110906154/59a57576-815f-40e9-9232-066005cef4bb">
+  <img alt="Git" height="42px" src="./images/tools/git.svg">
 </a>
 <a href="https://nodejs.org/" target="_blank">
-  <img alt="Node.js" height="42px" src="https://github.com/alefirr/alefirr/assets/110906154/599cebbe-71ab-49fd-95cd-9b807565862c">
+  <img alt="Node.js" height="42px" src="./images/tools/node.svg">
 </a>
 <a href="https://www.mongodb.com/" target="_blank">
-  <img alt="MongoDB" height="42px" src="https://github.com/alefirr/alefirr/assets/110906154/f7bbd8ff-8fb6-4a26-a803-29fef4906e54">
+  <img alt="MongoDB" height="42px" src="./images/tools/mongodb.svg">
 </a>
 <a href="https://en.wikipedia.org/wiki/SQL" target="_blank">
-  <img alt="SQL" height="38px" src="https://github.com/alefirr/alefirr/assets/110906154/b98c0c7c-de8b-447d-9da6-66e97ddf8b79">
+  <img alt="SQL" height="38px" src="./images/tools/sql.svg">
 </a>
 &nbsp;
 <a href="https://www.postgresql.org/" target="_blank">
-  <img alt="PostgreSQL" height="36px" src="https://github.com/alefirr/alefirr/assets/110906154/b1db3bda-a5a4-4f28-91b1-8dabd9504884">
+  <img alt="PostgreSQL" height="36px" src="./images/tools/postgresql.svg">
 </a>
 &nbsp;
 
