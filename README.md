@@ -62,6 +62,10 @@ I am a full-stack web developer. I love building web applications, exploring new
 
 <br>
 
+### 📊 GitHub Stats:
+![Overview](https://raw.githubusercontent.com/alefirr/github-stats-transparent/output/generated/overview.svg)
+![Languages usage](https://raw.githubusercontent.com/alefirr/github-stats-transparent/output/generated/languages.svg)
+
 <!--- 
 <a href="" target="_blank">
   <img alt="" height="42px" src="">
