@@ -2,13 +2,12 @@
 
 <a href="https://github.com/alefirr"><img align="right" src="./images/avatar.png" width="256" /></a>
 
-I am a full-stack web developer. I love building web applications, exploring new tools, and creating bla bla products.
+I am a full-stack web developer. I love building web applications, exploring new tools, and creating stunning products!
 
-- 🏠 I’m currently based in Vancouver, BC.
-- 📫 Feel free to ping me on LinkedIn
+- 🇨🇦 I’m currently based in Vancouver, BC
 - 📝 Checkout my resume!
-- 📫 How to reach me: olefirelena98@gmail.com
-
+- 📩 You can contact me at olefirelena98@gmail.com
+- 📫 Also feel free to reach me on [LinkedIn](https://www.linkedin.com/in/alefirr/)
 
 ### 🔨&nbsp;&nbsp;My tech stack & tools:
 
@@ -26,10 +25,9 @@ I am a full-stack web developer. I love building web applications, exploring new
 <a href="https://git-scm.com/" target="_blank"><img alt="Git" height="42px" src="./images/tools/git.svg"></a>
 <a href="https://nodejs.org/" target="_blank"><img alt="Node.js" height="42px" src="./images/tools/node.svg"></a>
 <a href="https://www.mongodb.com/" target="_blank"><img alt="MongoDB" height="42px" src="./images/tools/mongodb.svg"></a>
-<a href="https://en.wikipedia.org/wiki/SQL" target="_blank"><img alt="SQL" height="38px" src="./images/tools/sql.svg"></a>&nbsp;
-<a href="https://www.postgresql.org/" target="_blank"><img alt="PostgreSQL" height="36px" src="./images/tools/postgresql.svg"></a>&nbsp;
+<a href="https://en.wikipedia.org/wiki/SQL" target="_blank"><img alt="SQL" height="38px" src="./images/tools/sql.svg"></a>&nbsp;&nbsp;
+<a href="https://www.postgresql.org/" target="_blank"><img alt="PostgreSQL" height="36px" src="./images/tools/postgresql.svg"></a>
 <br>
-
 
 ### 📊&nbsp;&nbsp;GitHub Stats:
 <a href="https://github.com/alefirr"><img src="https://raw.githubusercontent.com/alefirr/github-stats-transparent/output/generated/overview.svg" alt="Overview" /></a>
