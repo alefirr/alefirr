@@ -12,6 +12,7 @@ I am a full-stack web developer. I love building web applications, exploring new
 
 ### 🔨 My tech stack & tools:
 
+<!--- Frontend -->
 <a href="https://www.typescriptlang.org/" target="_blank">
   <img alt="TypeScript" height="42px" src="https://github.com/alefirr/alefirr/assets/110906154/67c1145e-458e-4b97-882f-0b276026ea0f">
 </a>
@@ -28,21 +29,41 @@ I am a full-stack web developer. I love building web applications, exploring new
   <img alt="CSS" height="42px" src="https://github.com/alefirr/alefirr/assets/110906154/124039c6-c948-49d1-aedc-699a906be238">
 </a>
 <a href="https://sass-lang.com/" target="_blank">
-  <img alt="SCSS" height="42px" src="https://github.com/alefirr/alefirr/assets/110906154/40f23109-06ea-4556-8cf5-e392ce367eba">
+  <img alt="SCSS" height="36px" src="https://github.com/alefirr/alefirr/assets/110906154/40f23109-06ea-4556-8cf5-e392ce367eba">
 </a>
+&nbsp;
+<a href="https://jestjs.io/" target="_blank">
+  <img alt="Jest" height="32px" src="https://github.com/alefirr/alefirr/assets/110906154/9a94b81a-3250-45bc-bfb8-4d97ccb5f433">
+</a>
+&nbsp;
 <a href="https://www.figma.com/" target="_blank">
-  <img alt="Figma" height="42px" src="https://github.com/alefirr/alefirr/assets/110906154/3ad86eb4-4504-4192-9426-dc0e70d25a91">
+  <img alt="Figma" height="38px" src="https://github.com/alefirr/alefirr/assets/110906154/3ad86eb4-4504-4192-9426-dc0e70d25a91">
+</a><br>
+
+
+<!--- Backend -->
+<a href="https://git-scm.com/" target="_blank">
+  <img alt="Git" height="42px" src="https://github.com/alefirr/alefirr/assets/110906154/59a57576-815f-40e9-9232-066005cef4bb">
 </a>
-<br>
 <a href="https://nodejs.org/" target="_blank">
   <img alt="Node.js" height="42px" src="https://github.com/alefirr/alefirr/assets/110906154/599cebbe-71ab-49fd-95cd-9b807565862c">
 </a>
 <a href="https://www.mongodb.com/" target="_blank">
   <img alt="MongoDB" height="42px" src="https://github.com/alefirr/alefirr/assets/110906154/f7bbd8ff-8fb6-4a26-a803-29fef4906e54">
 </a>
-<br>
-<a href="https://git-scm.com/" target="_blank">
-  <img alt="Git" height="42px" src="https://github.com/alefirr/alefirr/assets/110906154/59a57576-815f-40e9-9232-066005cef4bb">
+<a href="https://en.wikipedia.org/wiki/SQL" target="_blank">
+  <img alt="SQL" height="38px" src="https://github.com/alefirr/alefirr/assets/110906154/b98c0c7c-de8b-447d-9da6-66e97ddf8b79">
 </a>
+&nbsp;
+<a href="https://www.postgresql.org/" target="_blank">
+  <img alt="PostgreSQL" height="36px" src="https://github.com/alefirr/alefirr/assets/110906154/b1db3bda-a5a4-4f28-91b1-8dabd9504884">
+</a>
+&nbsp;
+
 <br>
 
+<!--- 
+<a href="" target="_blank">
+  <img alt="" height="42px" src="">
+</a>
+-->
