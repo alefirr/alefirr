@@ -1,6 +1,6 @@
 ## Hi 👋, I am Olena!
 
-<a href=""><img align="right" src="./images/avatar.png" width="256" /></a>
+<a href="https://github.com/alefirr"><img align="right" src="./images/avatar.png" width="256" /></a>
 
 I am a full-stack web developer. I love building web applications, exploring new tools, and creating bla bla products.
 
@@ -32,6 +32,6 @@ I am a full-stack web developer. I love building web applications, exploring new
 
 
 ### 📊&nbsp;&nbsp;GitHub Stats:
-<a href=""><img src="https://raw.githubusercontent.com/alefirr/github-stats-transparent/output/generated/overview.svg" alt="Overview" /></a>
-<a href=""><img src="https://raw.githubusercontent.com/alefirr/github-stats-transparent/output/generated/languages.svg" alt="Languages" /></a>
+<a href="https://github.com/alefirr"><img src="https://raw.githubusercontent.com/alefirr/github-stats-transparent/output/generated/overview.svg" alt="Overview" /></a>
+<a href="https://github.com/alefirr"><img src="https://raw.githubusercontent.com/alefirr/github-stats-transparent/output/generated/languages.svg" alt="Languages" /></a>
 
