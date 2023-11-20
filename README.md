@@ -6,7 +6,7 @@ I am a full-stack web developer. I love building web applications, exploring new
 
 - 🇨🇦 I’m currently based in Vancouver, BC
 - 📫 Feel free to reach me on [LinkedIn](https://www.linkedin.com/in/alefirr/)
-- 📝 Checkout my [resume]()!
+- 📝 Checkout my [resume](https://drive.google.com/file/d/1jv2DWj6gNJ_-4PRaB-HaEnxRS8HRodKc/view?usp=sharing)!
 - 💌 Contact me at olefirelena98@gmail.com
 
 ### 🔨&nbsp;&nbsp;My tech stack & tools:
